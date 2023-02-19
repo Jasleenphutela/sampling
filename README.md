@@ -1,4 +1,4 @@
-#INTRODUCTION
+# INTRODUCTION
 Sampling is the process of selecting a subset of individuals or units from a population to estimate characteristics of the entire population. There are several different types of sampling methods, each with its own advantages and disadvantages. Here are brief explanations of five common sampling methods:
 
 Simple random sampling: In simple random sampling, each member of the population has an equal chance of being selected for the sample. This method is easy to understand and implement, but it may not be representative if the population is not homogeneous.
