@@ -18,4 +18,8 @@ The table below shows the accuracies of each sampling technique on five differen
 | Stratified Sampling | 0.9851 | 0.8937 | 0.9217 | 0.9498 | 0.6890 |
 | Cluster Sampling | **0.9868** | 0.9000 | 0.9088 | 0.9691 | 0.9235 |
 | Convenience Sampling | 0.9849 | 0.9190 | 0.9322 | 0.9623 | 0.7740 |
+
+
+
+
 AS WE CAN SEE,CLUSTER SAMPLING IS GIVING BETTER RESULTS AMONG THESE SAMPLING TECHNIQUES
